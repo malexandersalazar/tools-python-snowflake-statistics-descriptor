@@ -1,0 +1,4 @@
+pandas==1.3.5
+snowflake-connector-python==3.0.3
+sweetviz==2.1.4
+XlsxWriter==3.1.0

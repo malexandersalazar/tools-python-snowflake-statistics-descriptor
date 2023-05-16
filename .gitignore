@@ -1,0 +1,8 @@
+## Program config file
+appsettings.py
+
+# Build results
+[Oo]bj/
+
+## Python cache files
+__pycache__/
